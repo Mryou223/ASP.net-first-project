@@ -1,0 +1,19 @@
+﻿@model List<PatientVM>
+
+
+<h1>Patients</h1>
+<div class="d-flex justify-content-between">
+    <h6 class="card-subtitle">
+        # Patients @Model.Count
+    </h6>
+    <a asp-controller="Patient" asp-action="Create" class="btn btn-primary">
+        New Patient
+    </a>
+</div>
+@foreach (var p in Model) {
+    <li>
+        <a asp-controller="Patient" asp-action="Details" asp-route-id="@p.Id">
+            @p.FullName
+        </a>
+    </li>
+}

@@ -1,0 +1,21 @@
+﻿@model PatientCreatVM
+
+
+<form >
+    <div class="mb-3">
+        <label asp-for="Id" class="form-label"></label>
+        <input  asp-for="Id" class="form-control" placeholder="Enter Id">
+    </div>
+    <div class="mb-3">
+        <label asp-for="FullName" class="form-label"></label>
+        <input asp-for="FullName" class="form-control" placeholder="Enter FullName">
+    </div>
+    <div class="mb-3">
+        <label asp-for="NationalId" class="form-label"></label>
+        <input asp-for="NationalId" class="form-control" placeholder="Enter National Id">
+    </div>
+
+    <div>
+        <input type="submit" value="Create" class="btn btn-primary" />
+    </div>
+</form>
