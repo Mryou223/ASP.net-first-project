@@ -1,18 +1,116 @@
 ﻿// See https://aka.ms/new-console-template for more information
+
+using ConsoleApp1.Clinic;
 using ConsoleApp1.Models;
+using Microsoft.EntityFrameworkCore;
 
 Console.WriteLine("Hello, World!");
+
 var context = new HrContext();
+
 var numOfEmps = context.Employees.Count();
-Console.WriteLine("num of employee:  "+ numOfEmps);
+Console.WriteLine("Num of Employees: " + numOfEmps);
 
 var emps = context.Employees.Where(e => e.Salary >= 15000);
 foreach (var emp in emps)
 {
-    Console.WriteLine($" name is { emp.FirstName} { emp.LastName},Salary: { emp.Salary}");
+    Console.WriteLine($"Employee: {emp.FirstName} {emp.LastName}, Salary: {emp.Salary}");
 }
 
-HrContext hrContext = new HrContext();  
+// Insert
 
+
+
+// Update
+//var doctor = clinicContext.Doctors.First();
+//doctor.Salary = 15000; // Update salary
+//clinicContext.SaveChanges();
+
+
+// Delete
+//var doctor = clinicContext.Doctors.First();
+//clinicContext.Doctors.Remove(doctor);
+//clinicContext.SaveChanges();
+
+
+
+// ------------------------------------------
+
+var hrContext = new HrContext();
 var employees = hrContext.Employees
-    .w
+    .Where(e => e.DepartmentId == 30)
+    .Select(e => new {
+        Name = e.FirstName + " " + e.LastName,
+        Salary = e.Salary,
+        DepartmentId = e.DepartmentId,
+        HireDate = e.HireDate
+    })
+    .ToList();
+
+//var emps = from e in hrContext.Employees
+//           where e.DepartmentId == 30
+//           select new {
+//               Name = e.FirstName + " " + e.LastName,
+//               Salary = e.Salary,
+//               DepartmentId = e.DepartmentId,
+//               HireDate = e.HireDate
+//           };
+
+Console.WriteLine(employees);
+
+
+// ------------------------------------------
+
+// Lazy Loading
+var employees2 = hrContext.Employees
+    .Select(e => new {
+        Name = e.FirstName + " " + e.LastName,
+        Department = e.Department.DepartmentName,
+        City = e.Department.Location.City,
+    })
+    .ToList();
+
+Console.WriteLine(employees2);
+
+// ------------------------------------------
+
+// Eager Loading with Include and ThenInclude
+var employees3 = hrContext.Employees
+    .Include(e => e.Department)
+    .ThenInclude(d => d.Location)
+    .Select(e => new {
+        Name = e.FirstName + " " + e.LastName,
+        Department = e.Department.DepartmentName,
+        City = e.Department.Location.City,
+    })
+    .ToList();
+
+Console.WriteLine(employees3);
+
+
+// ------------------------------------------
+
+var employees4 = hrContext.Employees
+    .GroupBy(e => e.JobId)
+    .Select(g => new {
+        Job = g.Key,
+        AverageSalary = Convert.ToInt32(g.Average(e => e.Salary)),
+    })
+    .ToList();
+
+Console.WriteLine(employees4);
+
+
+
+// ------------------------------------------
+
+var numbers = new List<int> { 1, 2, 3, 4, 5 };
+var numG3 = numbers
+    .Where(n => n > 3)
+    .ToList();
+
+var numG2 = from n in numbers
+            where n > 2
+            select n;
+
+Console.WriteLine(numG3);

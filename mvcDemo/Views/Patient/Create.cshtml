@@ -1,18 +1,36 @@
 ﻿@model PatientCreatVM
 
 
-<form >
+<form  method="post">
     <div class="mb-3">
         <label asp-for="Id" class="form-label"></label>
         <input  asp-for="Id" class="form-control" placeholder="Enter Id">
+        <span asp-validation-for="Id" class="text-danger"></span>
     </div>
     <div class="mb-3">
         <label asp-for="FullName" class="form-label"></label>
         <input asp-for="FullName" class="form-control" placeholder="Enter FullName">
+        <span asp-validation-for="FullName" class="text-danger"></span>
     </div>
     <div class="mb-3">
         <label asp-for="NationalId" class="form-label"></label>
         <input asp-for="NationalId" class="form-control" placeholder="Enter National Id">
+        <span asp-validation-for="NationalId" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="Email" class="form-label"></label>
+        <input asp-for="Email" class="form-control" placeholder="Enter National Id">
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="PhoneNumber" class="form-label"></label>
+        <input asp-for="PhoneNumber" class="form-control" placeholder="Enter National Id">
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="mb-3">
+        <label asp-for="DateOfBirth" class="form-label"></label>
+        <input asp-for="DateOfBirth" class="form-control" placeholder="Enter National Id">
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
     </div>
 
     <div>

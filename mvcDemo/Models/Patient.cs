@@ -1,4 +1,6 @@
-﻿namespace mvcDemo.Models
+﻿using mvcDemo.ViewModels;
+
+namespace mvcDemo.Models
 {
     public class Patient
     {
@@ -14,6 +16,32 @@
 
         public DateTime DateOfBirth { get; set; }
 
-        public int Age => Convert.ToInt32((DateTime.Today - DateOfBirth).TotalDays / 365);
+        public PatientVM PatientVM()
+        {
+            return new PatientVM
+            {
+                Id = this.Id,
+                FullName = this.FullName,
+                NationalId = this.NationalId,
+                Email = this.Email,
+                PhoneNumber = this.PhoneNumber,
+                DateOfBirth = this.DateOfBirth
+            };
+        }
+        public PatientUpdateVm ToPatientUpdateVM()
+        {
+            return new PatientUpdateVm
+            {
+                
+                FullName = FullName,
+                DateOfBirth = DateOfBirth,
+                Email = Email,
+                NationalId = NationalId,
+                PhoneNumber = PhoneNumber
+            };
+        }
+
+
+
     }
-}
+    } 

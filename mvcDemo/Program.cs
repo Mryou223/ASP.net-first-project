@@ -1,4 +1,20 @@
+
+using EFCore.ClinicModels;
+using Microsoft.EntityFrameworkCore;
+
+// Remove or update the following using directive to fix CS0246:
+// using ConsoleApp1.Clinic;
+
+// If your DbContext is defined in a different namespace, update the using directive accordingly.
+// For example, if your context is in 'mvcDemo.Clinic', use:
+// using mvcDemo.Clinic;
+
+// If you are unsure of the correct namespace, please provide the file and namespace where 'ClinicContext' is defined.
 var builder = WebApplication.CreateBuilder(args);
+
+
+var connString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<ClinicContext>(options => options.UseSqlServer(connString));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
