@@ -20,7 +20,6 @@ foreach (var emp in emps)
 // Insert
 
 
-
 // Update
 //var doctor = clinicContext.Doctors.First();
 //doctor.Salary = 15000; // Update salary
@@ -31,8 +30,6 @@ foreach (var emp in emps)
 //var doctor = clinicContext.Doctors.First();
 //clinicContext.Doctors.Remove(doctor);
 //clinicContext.SaveChanges();
-
-
 
 // ------------------------------------------
 
@@ -114,3 +111,9 @@ var numG2 = from n in numbers
             select n;
 
 Console.WriteLine(numG3);
+
+
+
+
+
+

@@ -34,15 +34,19 @@
                 <td>@p.DateOfBirth.ToShortDateString()</td>
                 <td>@p.Age</td>
                 <td>
-                    <a asp-controller="Patient" asp-action="Details" asp-route-id="@p.Id" class="btn btn-primary">
+                    <div>
+                        <a asp-controller="Patient" asp-action="Details" asp-route-id="@p.Id" class="btn btn-primary">
                         Details
-                    </a>
-                    <a asp-controller="Patient" asp-action="Update" asp-route-id="@p.Id" class="btn btn-secondary">
+                        </a>
+                    </div>
+                   <div>     <a asp-controller="Patient" asp-action="Update" asp-route-id="@p.Id" class="btn btn-secondary">
                         Update
-                    </a>
-                    <a href="javascript:;" data-id="@p.Id" class="btn btn-danger js-delete">
+                        </a>
+                    </div>
+                      <div>  <a href="javascript:;" data-id="@p.Id" class="btn btn-danger js-delete">
                         Delete
-                    </a>
+                        </a>
+                    </div>
                 </td>
             </tr>
         }

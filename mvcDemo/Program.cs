@@ -1,8 +1,14 @@
 
-using EFCore.ClinicModels;
+ // Update this namespace to match your project structure
 using Microsoft.EntityFrameworkCore;
 
 // Remove or update the following using directive to fix CS0246:
+// Update the using directive to match the actual namespace where ClinicContext is defined.
+// For example, if ClinicContext is in the 'mvcDemo.Clinic' namespace, use:
+using mvcDemo.Models;
+
+// Remove or update the following using directive to fix CS0246:
+// using ConsoleApp1.Clinic;
 // using ConsoleApp1.Clinic;
 
 // If your DbContext is defined in a different namespace, update the using directive accordingly.
