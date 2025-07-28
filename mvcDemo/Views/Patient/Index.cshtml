@@ -1,9 +1,9 @@
-﻿@model List<PatientVM>
+﻿@model PatientFilteredListVm
 
 <h1>Patients</h1>
 <div class="d-flex justify-content-between">
     <h6 class="card-subtitle">
-        # Patients @Model.Count 
+        # Patients @Model.patients.Count 
     </h6>
     <a asp-controller="Patient" asp-action="Create" class="btn btn-primary">
         New Patient
@@ -23,7 +23,7 @@
         </tr>
     </thead>
     <tbody>
-        @foreach (var p in Model)
+        @foreach (var p in Model.patients)
         {
             <tr>
                 <td>@p.Id</td>

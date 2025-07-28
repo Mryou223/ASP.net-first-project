@@ -16,6 +16,8 @@ namespace mvcDemo.Models
 
         public DateTime DateOfBirth { get; set; }
 
+        
+
         public PatientVM PatientVM()
         {
             return new PatientVM

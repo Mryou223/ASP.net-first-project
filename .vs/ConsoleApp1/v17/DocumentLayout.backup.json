@@ -1,94 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\",
+  "WorkspaceRootPath": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\clinic\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clinic\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\clinic\\spiciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clinic\\spiciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\clinic\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clinic\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\patient\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\models\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\viewmodels\\patientfilteredlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\viewmodels\\patientfilteredlistvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\viewmodels\\patientfiltervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\viewmodels\\patientfiltervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\viewmodels\\patientupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\viewmodels\\patientupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\viewmodels\\patientupdatevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\viewmodels\\patientcreatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\viewmodels\\patientcreatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\viewmodels\\patientcreatvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\viewmodels\\patientvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\viewmodels\\patientvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\mvcDemo.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:mvcDemo\\mvcDemo.csproj.user||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\mvcdemo\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\models\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\models\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\migrations\\20250720184715_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\migrations\\20250720184715_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\ameri\\desktop\\consoleapp1\\consoleapp1\\migrations\\20250720185812_iit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\migrations\\20250720185812_iit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\consoleapp1\\clinic\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clinic\\cliniccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\consoleapp1\\clinic\\spiciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clinic\\spiciality.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\consoleapp1\\clinic\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49868863-818F-43E6-8C90-7BD55D4147F4}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\clinic\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\patient\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\patient\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\views\\patient\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|c:\\users\\yalqh\\onedrive\\desktop\\mvc\\asp.net-first-project\\mvcdemo\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60D6E5E3-C112-420E-896F-14A411227503}|mvcDemo\\mvcDemo.csproj|solutionrelative:mvcdemo\\models\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,169 +97,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "mvcDemo\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "mvcDemo\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAYAAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-26T16:49:11.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Program.cs",
-              "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAGUAAAAAAAAAAAAWwCAAAAAAAAAAAAAAAA==",
+              "Title": "PatientFilteredListVM.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientFilteredListVM.cs",
+              "RelativeDocumentMoniker": "mvcDemo\\ViewModels\\PatientFilteredListVM.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientFilteredListVM.cs",
+              "RelativeToolTip": "mvcDemo\\ViewModels\\PatientFilteredListVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T16:43:47.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T11:48:29.685Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ClinicContext.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Clinic\\ClinicContext.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clinic\\ClinicContext.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Clinic\\ClinicContext.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clinic\\ClinicContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Title": "PatientFilterVM.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientFilterVM.cs",
+              "RelativeDocumentMoniker": "mvcDemo\\ViewModels\\PatientFilterVM.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientFilterVM.cs",
+              "RelativeToolTip": "mvcDemo\\ViewModels\\PatientFilterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T18:32:32.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Create.cshtml",
-              "RelativeDocumentMoniker": "mvcDemo\\Views\\Patient\\Create.cshtml",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Create.cshtml",
-              "RelativeToolTip": "mvcDemo\\Views\\Patient\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T16:14:20.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-28T11:41:50.008Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PatientController.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Controllers\\PatientController.cs",
-              "RelativeDocumentMoniker": "mvcDemo\\Controllers\\PatientController.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Controllers\\PatientController.cs",
-              "RelativeToolTip": "mvcDemo\\Controllers\\PatientController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAQwGYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T17:26:02.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Program.cs",
-              "RelativeDocumentMoniker": "mvcDemo\\Program.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Program.cs",
-              "RelativeToolTip": "mvcDemo\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:04:26.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "spiciality.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Clinic\\spiciality.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clinic\\spiciality.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Clinic\\spiciality.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clinic\\spiciality.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T16:49:10.243Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Doctor.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Clinic\\Doctor.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Clinic\\Doctor.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Clinic\\Doctor.cs",
-              "RelativeToolTip": "ConsoleApp1\\Clinic\\Doctor.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T18:30:31.636Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "mvcDemo\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "mvcDemo\\Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-23T16:21:42.207Z",
-              "EditorCaption": ""
+              "Title": "mvcDemo.csproj.user",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\mvcDemo.csproj.user",
+              "RelativeDocumentMoniker": "mvcDemo\\mvcDemo.csproj.user",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\mvcDemo.csproj.user",
+              "RelativeToolTip": "mvcDemo\\mvcDemo.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-07-28T10:54:11.087Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-07-28T10:53:44.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "mvcDemo\\appsettings.json",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\appsettings.json",
+              "RelativeToolTip": "mvcDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-28T09:52:23.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Program.cs",
+              "RelativeDocumentMoniker": "mvcDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Program.cs",
+              "RelativeToolTip": "mvcDemo\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAIwDIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T20:04:26.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Clinic\\Doctor.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clinic\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Clinic\\Doctor.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clinic\\Doctor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:30:31.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "mvcDemo\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "mvcDemo\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T16:21:42.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-20T17:18:07.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "mvcDemo\\Controllers\\PatientController.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "mvcDemo\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowCIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T17:26:02.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Index.cshtml",
               "RelativeDocumentMoniker": "mvcDemo\\Views\\Patient\\Index.cshtml",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Index.cshtml",
               "RelativeToolTip": "mvcDemo\\Views\\Patient\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-07-23T16:38:05.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 5,
               "Title": "PatientCreatVM.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\ViewModels\\PatientCreatVM.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientCreatVM.cs",
               "RelativeDocumentMoniker": "mvcDemo\\ViewModels\\PatientCreatVM.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\ViewModels\\PatientCreatVM.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientCreatVM.cs",
               "RelativeToolTip": "mvcDemo\\ViewModels\\PatientCreatVM.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAIBQwAgAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwAgAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T17:44:37.161Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Create.cshtml",
+              "RelativeDocumentMoniker": "mvcDemo\\Views\\Patient\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Create.cshtml",
+              "RelativeToolTip": "mvcDemo\\Views\\Patient\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T16:14:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "PatientUpdateVm.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\ViewModels\\PatientUpdateVm.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientUpdateVm.cs",
               "RelativeDocumentMoniker": "mvcDemo\\ViewModels\\PatientUpdateVm.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\ViewModels\\PatientUpdateVm.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\ViewModels\\PatientUpdateVm.cs",
               "RelativeToolTip": "mvcDemo\\ViewModels\\PatientUpdateVm.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAswBgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T16:27:22.461Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "spiciality.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Clinic\\spiciality.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clinic\\spiciality.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Clinic\\spiciality.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clinic\\spiciality.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-21T16:49:10.243Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "mvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "mvcDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-26T16:49:11.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ClinicContext.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Clinic\\ClinicContext.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Clinic\\ClinicContext.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Clinic\\ClinicContext.cs",
+              "RelativeToolTip": "ConsoleApp1\\Clinic\\ClinicContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T18:32:32.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAWwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T16:43:47.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "Update.cshtml",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Update.cshtml",
               "RelativeDocumentMoniker": "mvcDemo\\Views\\Patient\\Update.cshtml",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Update.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Update.cshtml",
               "RelativeToolTip": "mvcDemo\\Views\\Patient\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -268,35 +330,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClinicContext.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Models\\ClinicContext.cs",
-              "RelativeDocumentMoniker": "mvcDemo\\Models\\ClinicContext.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Models\\ClinicContext.cs",
-              "RelativeToolTip": "mvcDemo\\Models\\ClinicContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T20:13:07.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "Patient.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Models\\Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Models\\Patient.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Models\\Patient.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Models\\Patient.cs",
               "RelativeToolTip": "mvcDemo\\Models\\Patient.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwCkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T16:15:12.904Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 20,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Details.cshtml",
               "RelativeDocumentMoniker": "mvcDemo\\Views\\Patient\\Details.cshtml",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Views\\Patient\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Views\\Patient\\Details.cshtml",
               "RelativeToolTip": "mvcDemo\\Views\\Patient\\Details.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -304,75 +354,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "PatientVM.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\ViewModels\\PatientVM.cs",
-              "RelativeDocumentMoniker": "mvcDemo\\ViewModels\\PatientVM.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\ViewModels\\PatientVM.cs",
-              "RelativeToolTip": "mvcDemo\\ViewModels\\PatientVM.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAIAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T17:44:59.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 21,
               "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Models\\Constants.cs",
+              "DocumentMoniker": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Models\\Constants.cs",
               "RelativeDocumentMoniker": "mvcDemo\\Models\\Constants.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\mvcDemo\\Models\\Constants.cs",
+              "ToolTip": "C:\\Users\\Yalqh\\OneDrive\\Desktop\\mvc\\ASP.net-first-project\\mvcDemo\\Models\\Constants.cs",
               "RelativeToolTip": "mvcDemo\\Models\\Constants.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-23T16:18:49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HrContext.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\HrContext.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Models\\HrContext.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Models\\HrContext.cs",
-              "RelativeToolTip": "ConsoleApp1\\Models\\HrContext.cs",
-              "ViewState": "AgIAAG8AAAAAAAAAAAAuwPkAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T17:45:22.654Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20250720184715_Init.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250720184715_Init.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20250720184715_Init.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250720184715_Init.cs",
-              "RelativeToolTip": "ConsoleApp1\\Migrations\\20250720184715_Init.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T18:47:15.768Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250720185812_Iit.cs",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250720185812_Iit.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Migrations\\20250720185812_Iit.cs",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\Migrations\\20250720185812_Iit.cs",
-              "RelativeToolTip": "ConsoleApp1\\Migrations\\20250720185812_Iit.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-20T18:58:12.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "ConsoleApp1.csproj",
-              "DocumentMoniker": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ToolTip": "C:\\Users\\ameri\\Desktop\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-              "RelativeToolTip": "ConsoleApp1\\ConsoleApp1.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-20T17:18:07.754Z"
             }
           ]
         }

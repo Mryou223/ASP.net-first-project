@@ -1,6 +1,5 @@
 ﻿using mvcDemo.Models;
 using Microsoft.EntityFrameworkCore;
-using mvcDemo.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace EFCore.ClinicModels
 {
-    internal class ClinicContext : DbContext
+    public class ClinicContext : DbContext
     {
 
         public DbSet<Doctor> Doctors { get; set; } = null!;

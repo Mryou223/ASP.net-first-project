@@ -1,11 +1,12 @@
 
  // Update this namespace to match your project structure
 using Microsoft.EntityFrameworkCore;
+using mvcDemo.Models;
 
 // Remove or update the following using directive to fix CS0246:
 // Update the using directive to match the actual namespace where ClinicContext is defined.
 // For example, if ClinicContext is in the 'mvcDemo.Clinic' namespace, use:
-using mvcDemo.Models;
+
 
 // Remove or update the following using directive to fix CS0246:
 // using ConsoleApp1.Clinic;
@@ -20,6 +21,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 
 var connString = builder.Configuration.GetConnectionString("DefaultConnection");
+
 builder.Services.AddDbContext<ClinicContext>(options => options.UseSqlServer(connString));
 
 // Add services to the container.

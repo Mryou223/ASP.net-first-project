@@ -1,16 +1,22 @@
-﻿using mvcDemo.Models;
+﻿using EFCore.ClinicModels;
 using Microsoft.AspNetCore.Mvc;
+using mvcDemo.Models;
 using mvcDemo.ViewModels;
 
 namespace mvcDemo.Controllers
 {
     public class PatientController : Controller
     {
+        public ClinicContext context;
 
+        public PatientController(ClinicContext context)
+        {
+            this.context = context;
+        }
 
         public IActionResult Index()
         {
-            var patients = Constants.Patients.Select(p => new PatientVM
+            var patients = context.Patients.Select(p => new PatientVM
             {
                 Id = p.Id,
                 FullName = p.FullName,
@@ -25,7 +31,7 @@ namespace mvcDemo.Controllers
         public IActionResult Details(int id)
         {
 
-            var patient = Constants.Patients.FirstOrDefault(p => p.Id == id);
+            var patient = context.Patients.FirstOrDefault(p => p.Id == id);
             if (patient == null)
             {
                 return NotFound();
@@ -35,6 +41,8 @@ namespace mvcDemo.Controllers
             var patientVM = patient.PatientVM();
             return View(patientVM);
         }
+
+        //creat -------------------------------------------------------
         public IActionResult Create()
         {
             var patient = new PatientCreatVM();
@@ -51,20 +59,20 @@ namespace mvcDemo.Controllers
             }
             var newPatient = new Patient
             {
-                Id = Constants.Patients.Count + 1,
                 FullName = patient.FullName,
                 NationalId = patient.NationalId,
                 Email = patient.Email,
                 PhoneNumber = patient.PhoneNumber,
                 DateOfBirth = patient.DateOfBirth
             };
-            Constants.Patients.Add(newPatient);
+            context.Patients.Add(newPatient);
+            context.SaveChanges();
             return RedirectToAction("Index");
         }
-
+        // update -------------------------------------------------------
         public IActionResult Update(int Id)
         {
-            var patient = Constants.Patients.FirstOrDefault(p => p.Id == Id);
+            var patient = context.Patients.FirstOrDefault(p => p.Id == Id);
             if (patient == null)
             { return NotFound(); }
             var patientVM = patient.ToPatientUpdateVM();
@@ -78,7 +86,7 @@ namespace mvcDemo.Controllers
             {
                 return View(Updatedpatient);
             }
-            var existPatient = Constants.Patients.FirstOrDefault(p => p.Id == Id);
+            var existPatient = context.Patients.FirstOrDefault(p => p.Id == Id);
 
             if (existPatient == null)
             {
@@ -86,18 +94,20 @@ namespace mvcDemo.Controllers
             }
 
             Updatedpatient.ToPatient(existPatient);
+            context.SaveChanges();
 
             return RedirectToAction("Index");
         }
-
+        // delete -------------------------------------------------------
         public IActionResult Delete(int Id)
         {
-            var patient = Constants.Patients.FirstOrDefault(p => p.Id == Id);
+            var patient = context.Patients.FirstOrDefault(p => p.Id == Id);
             if (patient == null)
             {
                 return NotFound();
             }
-            Constants.Patients.Remove(patient);
+            context.Patients.Remove(patient);
+            context.SaveChanges();
             return RedirectToAction("Index");
         }
         
